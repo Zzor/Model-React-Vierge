@@ -3,7 +3,7 @@ import React from 'react';
 
 // == Import
 import reactLogo from './react-logo.svg';
-import './styles.css';
+import './styles.scss';
 
 // == Composant
 const App = () => (
